@@ -1,0 +1,20 @@
+p {
+    color: violet;
+}
+
+#coloramarillo {
+    color: yellow;
+}
+
+.colornaranja {
+    color: orange;
+}
+
+.colorazul {
+    color: blue;
+}
+
+.colorazul {
+    color: chartreuse;
+    font-size: 30px;
+}
